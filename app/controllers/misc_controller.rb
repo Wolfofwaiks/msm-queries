@@ -17,4 +17,5 @@ class MiscController < ApplicationController
 
     render({ :template => "misc_templates/show"})
   end 
+
 end
